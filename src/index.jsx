@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import FlatButton from 'material-ui/FlatButton';
-import NavigationFirstPage from 'material-ui/svg-icons/navigation/first-page';
-import NavigationLastPage from 'material-ui/svg-icons/navigation/last-page';
+import NavigationLastPage from 'material-ui/svg-icons/navigation/first-page';
+import NavigationFirstPage from 'material-ui/svg-icons/navigation/last-page';
 
 const flatButtonStyle = {
   minWidth: 16,
